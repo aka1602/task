@@ -1,0 +1,16 @@
+.sideBar {
+  height: 40px;
+  width: 40px;
+  /* transform: rotate(-0deg); */
+  transform: scaleX(-1);
+}
+.topBar {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  font-size: 25px;
+  color: blue;
+  font-weight: 700;
+  margin-left: 50px;
+}

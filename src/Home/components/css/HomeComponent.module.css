@@ -1,0 +1,36 @@
+.OurProductsHeading {
+  font-size: 22px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 50px;
+  text-decoration: underline;
+}
+.base {
+  height: 100vh;
+  background-color: #f3f3f3;
+}
+.productContentBox {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  background-color: #000;
+  color: #ffff;
+  justify-content: space-between;
+  margin-top: 30px;
+  border-radius: 35px;
+}
+.productTitle {
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.productImage {
+  margin-right: 20px;
+}
+.productForm {
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: underline;
+  margin-top: 15px;
+  text-align: center;
+}

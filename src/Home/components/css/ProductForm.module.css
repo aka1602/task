@@ -1,0 +1,39 @@
+.firstNameLabel {
+  height: 45px;
+  margin-top: 15px;
+}
+
+.firstNameInput {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 14px;
+  margin-top: 15px;
+  font-weight: 600;
+}
+.base {
+  padding: 15px;
+  /* height: 100vh; */
+  background: #f3f3f3;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.submitButton {
+  height: 50px;
+  background: #000;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.textAreaBox {
+  margin-top: 15px;
+}
+.selectBox {
+  margin-top: 15px;
+}
